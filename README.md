@@ -10,16 +10,19 @@ Fatemeh Imaninejad
 - Digital Health and Health Informatics
 
 2) Relevant Skills
+   
 #Research & Evidence Synthesis
 - Scientific Literature Search and Screening
 - Evidence Extraction and Organization
 - Critical Appraisal and Scientific Writing
 - Clinical Research and Data Analysis
+  
 #Project & Team Coordination
 - Interdisciplinary Team Collaboration
 - Research Documentation and Task Management
 - Clinical Problem Identification
 - Early-stage MedTech Product Development
+  
 #Technical & Analytical Tools
 - SPSS and Microsoft Excel
 - Python (Basic)
