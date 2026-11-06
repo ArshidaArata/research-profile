@@ -36,5 +36,6 @@ Fatemeh Imaninejad
 
 4) Current Research Focus
 Exploring the evaluation of quality, reliability, and safety of AI-generated medical information and clinical decision-support applications.
+Interested in learning practical methods for evaluating patient-facing LLM-generated health information.
 4) Current Research Focus
 Exploring the evaluation of quality, reliability, and safety of AI-generated medical information and clinical decision-support applications.
